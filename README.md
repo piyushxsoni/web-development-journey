@@ -31,8 +31,8 @@ Web Development/
 - [x] CSS Fundamentals
 - [x] Responsive Design Basics
 - [x] JavaScript Basics
-- [ ] Advanced JavaScript
-- [ ] TypeScript
+- [x] Advanced JavaScript
+- [x] TypeScript
 - [ ] React.js
 - [ ] Backend Development
 - [ ] Database Integration
