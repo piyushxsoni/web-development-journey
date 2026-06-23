@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    font-family: Arial;
+}
+
+.navbar{
+    background-color: black;
+}
+.navbar ul{
+    list-style: none;
+    margin : 0;
+    padding: 0;
+    display: flex;
+}
+.navbar li{
+    padding: 15px;
+}
+
+.navbar a{
+    color: aquamarine;
+    text-decoration:none;
+}
+
+.navbar a:hover{
+    background-color: rgb(69, 52, 52);
+}

@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    color:white;
+    font-size: 40PX;
+}
+
+.container{
+    display: grid;
+    height: 800;
+    width: 800;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 2fr 2fr 1fr;
+    gap: 20px;
+    padding: 10px;
+}
+.Box{
+    background-color: rgb(76, 76, 175);
+    border-radius: 5px;
+}
+.Header{
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+.SideBar{
+    grid-row-start: 2;
+    grid-row-end: 4;
+
+}
+.Contant1{
+    grid-column: 2/4;
+     border-radius: 5px;
+}
+.Footer{
+    grid-column: 1/4;
+}

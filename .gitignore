@@ -1,0 +1,9 @@
+JsProject1/
+node_modules/
+build/
+.env
+*.zip
+*.mp4
+*.mpeg
+*.mp3
+*.pdf
