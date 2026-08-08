@@ -1,6 +1,7 @@
 JsProject1/
 node_modules/
 build/
+dist/
 .env
 *.zip
 *.mp4
